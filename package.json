@@ -1,6 +1,6 @@
 {
   "author": "Peter Magnusson <kmpm@birchroad.net>",
-  "name": "barc",
+  "name": "barc-new",
   "description": "Library for creating 1D barcodes with node.js. Backed by node-canvas.",
   "keywords": ["barcode", "canvas", "code 128", "code 2of5"],
   "version": "0.0.4",
